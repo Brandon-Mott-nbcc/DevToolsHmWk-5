@@ -103,7 +103,7 @@
             this.lblAnswer.Name = "lblAnswer";
             this.lblAnswer.Size = new System.Drawing.Size(90, 40);
             this.lblAnswer.TabIndex = 4;
-            this.lblAnswer.Text = "Answer:";
+            this.lblAnswer.Text = "42";
             // 
             // txtBoxMulti
             // 
